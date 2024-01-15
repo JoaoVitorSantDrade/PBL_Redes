@@ -1,0 +1,9 @@
+[submodule "PBL"]
+	path = PBL
+	url = https://github.com/JoaoVitorSantDrade/PBL.git
+[submodule "PBL2"]
+	path = PBL2
+	url = https://github.com/JoaoVitorSantDrade/PBL2.git
+[submodule "PBL3_redes"]
+	path = PBL3_redes
+	url = https://github.com/JoaoVitorSantDrade/PBL3_redes.git
